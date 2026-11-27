@@ -4,13 +4,10 @@ A modular, single-cycle RISC-V processor implemented in Verilog HDL, structured 
 
 ---
 
-## Repository Structure
+## Project Structure
 
 ```text
 Vivado Simulation/RISC-V/
-├── RISC-V.cache/
-├── RISC-V.hw/
-├── RISC-V.runs/
 └── RISC-V.srcs/
     ├── constrs_1/imports/RISC-V_Project/
     │   └── constraints.xdc          # FPGA pin mappings and clock constraints
